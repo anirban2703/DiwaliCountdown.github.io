@@ -4,7 +4,7 @@ const minsEl= document.getElementById("mins");
 const secondsEl= document.getElementById("seconds");
 
 
-const diwaliDate="5 Nov 2021";
+const diwaliDate="10 Oct 2022";
 
 function countTime(){
     const finalDate = new Date(diwaliDate);
