@@ -6,7 +6,7 @@
 
 }
 body{
-    background-image: url("/Diwali_Background.jpeg");
+    background-image: url("./Diwali_Background.jpeg");
     align-items: center;
     padding-top: 10rem;
     background-size: cover;
